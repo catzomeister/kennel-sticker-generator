@@ -1,0 +1,14 @@
+{
+  "name": "scd-stickers",
+  "version": "1.0.0",
+  "description": "SC&D stickers generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scd"
+  ],
+  "author": "catzomeister",
+  "license": "ISC"
+}
